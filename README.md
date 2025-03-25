@@ -71,18 +71,18 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Viraj012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viraj012&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj012&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
 <!-- Activity Graph -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Viraj012&theme=tokyo-night&hide_border=true" />
 </details>
 
 <!-- Featured Projects Section with Custom Cards -->
@@ -90,10 +90,10 @@ const developer = {
 
 <div align="center">
   <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viraj012&repo=project1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viraj012&repo=project2&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -105,7 +105,7 @@ const developer = {
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/YOUR_USERNAME/Viraj012/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <!-- Connect With Me Section -->
