@@ -15,11 +15,12 @@
 <div>
   <img align="right" alt="Coding" width="400" src="https://github.com/Viraj012/Viraj012/blob/main/img.png">
   
-  - 🔭 I'm a Full Stack Developer
-  - 🎓 Computer Science Graduate
-  - 🌱 Currently learning AWS, GraphQL, and System Design
-  - 💻 Passionate about coding and building web applications
-  - 📚 Hobbies include sketching and reading
+ - 🧙‍♂️ Digital architect who transforms caffeine into code – Full Stack Developer by day, debugging dreamer by night
+ - 🎓 Survived Computer Science with only minor existential crises and a deep relationship with Stack Overflow
+ - 🌱 Currently wrangling AWS, GraphQL, and System Design into submission – my brain has 37 tabs open and I can't find the one playing music
+ - 💻 Building web experiences that don't make users question their sanity (most of the time)
+ - ✏️ When not trapped in VS Code, you'll find me sketching anime characters or buried in books about dystopian futures and impractical magic systems
+
 </div>
 
 <br clear="right"/>
