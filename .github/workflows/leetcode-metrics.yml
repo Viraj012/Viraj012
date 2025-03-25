@@ -1,8 +1,8 @@
 name: LeetCode Metrics
 on:
-
+  # Schedule updates (every 24 hours)
   schedule: [{cron: "0 0 * * *"}]
-
+  # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["main"]}
 
@@ -18,3 +18,5 @@ jobs:
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
+          # Add your LeetCode username below
+          plugin_leetcode_user: viraj012
