@@ -11,51 +11,78 @@
 </p>
 
 ## 👨‍💻 About Me
-- 🔭 I'm a Full Stack Developer
-- 🎓 Computer Science Graduate
-- 🌱 Currently learning AWS, GraphQL, and System Design
-- 💻 Passionate about coding and building web applications
-- 📚 Hobbies include reading and hiking
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div>
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  
+  - 🔭 I'm a Full Stack Developer
+  - 🎓 Computer Science Graduate
+  - 🌱 Currently learning AWS, GraphQL, and System Design
+  - 💻 Passionate about coding and building web applications
+  - 📚 Hobbies include sketching and reading
+</div>
+
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Programming & Languages
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Backend & Database
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/-Web_API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![RESTful API](https://img.shields.io/badge/-RESTful_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-47A248?style=for-the-badge&logo=nestjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Frontend & UI
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### AI/ML & Data
+![ML.NET](https://img.shields.io/badge/-ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Azure ML](https://img.shields.io/badge/-Azure_Machine_Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data_Analysis-44A833?style=for-the-badge&logo=pandas&logoColor=white)
+
+### DevOps & Tools
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-3C5280?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TDD](https://img.shields.io/badge/-TDD-57b560?style=for-the-badge&logo=checkmarx&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viraj012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Viraj012&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj012&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viraj012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Viraj012&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj012&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 <!--
@@ -69,28 +96,21 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Viraj012/project-name-1">
+  <a href="https://github.com/Viraj012/pixwiz">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viraj012&repo=pixwiz&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Viraj012/project-name-2">
+  <a href="https://github.com/Viraj012/neu-social-fullstack">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viraj012&repo=neu-social-fullstack&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-<!-- Latest Blog Posts Section -->
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated by a GitHub Action workflow -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
 ## 🔗 Connect With Me
 
-
+<p>
   <a href="https://www.linkedin.com/in/vishalrajpurohit226">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.vishalrajpurohit226@gmai.com">
+  <a href="mailto:vishalrajpurohit226@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
