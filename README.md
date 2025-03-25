@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 <div>
-  <img align="right" alt="Coding" width="400" src="https://github.com/Viraj012/Viraj012/blob/main/img.png">
+  <img align="right" alt="Coding" width="350" src="https://github.com/Viraj012/Viraj012/blob/main/img.png">
   
  - 🧙‍♂️ Digital architect who transforms caffeine into code – Full Stack Developer by day, debugging dreamer by night
  - 🎓 Survived Computer Science with only minor existential crises and a deep relationship with Stack Overflow
