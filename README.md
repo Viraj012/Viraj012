@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 <div>
-  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="650" src="https://github-production-user-asset-6210df.s3.amazonaws.com/22963968/335849552-f03a6539-5f5e-4e29-8cc5-8f2138660440.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250325%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250325T030009Z&X-Amz-Expires=300&X-Amz-Signature=376a2cd746cea6bf38b9808625985fac4bc9e11e73764a99c68eeb99382e49e7&X-Amz-SignedHeaders=host">
   
   - 🔭 I'm a Full Stack Developer
   - 🎓 Computer Science Graduate
