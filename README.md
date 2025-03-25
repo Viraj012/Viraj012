@@ -1,29 +1,18 @@
-<!-- Animated Header Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+YOUR_NAME;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
+# Hello, I'm Viraj 👋
 
 <!-- Profile Views Counter -->
-<div align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Viraj012&style=flat-square&color=blue" alt="Profile Views Counter"/>
-</div>
+</p>
 
-<br/>
-
-<!-- Wave animation and intro -->
-<h1 align="center">
-  Welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-
-<!-- About Me Section -->
 ## 👨‍💻 About Me
 
 ```javascript
 const developer = {
-  name: "YOUR_NAME",
+  name: "Viraj",
   role: "Full Stack Developer",
   education: "Computer Science Graduate",
-  location: "YOUR_LOCATION",
+  location: "India",
   currentlyLearning: ["AWS", "GraphQL", "System Design"],
   hobbies: ["Coding", "Reading", "Hiking"],
   funFact: "I can solve a Rubik's cube in under 2 minutes!"
@@ -32,11 +21,8 @@ const developer = {
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 
-<div align="center">
-  
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -65,37 +51,35 @@ const developer = {
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-</div>
 
-<!-- GitHub Stats Section with Animation -->
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Viraj012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viraj012&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj012&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-</div>
+</p>
 
-<!-- Activity Graph -->
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Viraj012&theme=tokyo-night&hide_border=true" />
 </details>
 
-<!-- Featured Projects Section with Custom Cards -->
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viraj012&repo=project1&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/Viraj012/project-name-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viraj012&repo=project-name-1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viraj012&repo=project2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Viraj012/project-name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viraj012&repo=project-name-2&theme=tokyonight&hide_border=true" />
   </a>
-</div>
+</p>
 
 <!-- Latest Blog Posts Section -->
 ## 📝 Latest Blog Posts
@@ -104,35 +88,33 @@ const developer = {
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/YOUR_USERNAME/Viraj012/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+<p align="center">
+  <img src="https://github.com/Viraj012/Viraj012/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-<!-- Connect With Me Section -->
 ## 🔗 Connect With Me
 
-<div align="center">
-  <a href="https://twitter.com/YOUR_TWITTER">
+<p align="center">
+  <a href="https://twitter.com/your-twitter-handle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/your-linkedin-profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://dev.to/YOUR_DEV">
+  <a href="https://dev.to/your-dev-profile">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
+</p>
 
 <!-- Random Joke Card -->
-<div align="center">
-  <br/>
+<p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
+</p>
 
 <!-- Footer -->
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+</p>
