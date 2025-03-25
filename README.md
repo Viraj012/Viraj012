@@ -14,8 +14,7 @@ const developer = {
   education: "Computer Science Graduate",
   location: "India",
   currentlyLearning: ["AWS", "GraphQL", "System Design"],
-  hobbies: ["Coding", "Reading", "Hiking"],
-  funFact: "I can solve a Rubik's cube in under 2 minutes!"
+  hobbies: ["Sketching", "Reading", "Philosophy"],
 };
 ```
 
