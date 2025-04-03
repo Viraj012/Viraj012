@@ -47,8 +47,8 @@
 ![RESTful API](https://img.shields.io/badge/-RESTful_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-47A248?style=for-the-badge&logo=nestjs&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) -->
 <!-- ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) -->
 
 ### Frontend & UI
@@ -69,8 +69,6 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-3C5280?style=for-the-badge&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-<!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
-<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -78,6 +76,8 @@
 ![xUnit](https://img.shields.io/badge/-xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TDD](https://img.shields.io/badge/-TDD-57b560?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
+<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 
 ## 📊 GitHub Stats
 
