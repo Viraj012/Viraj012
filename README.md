@@ -2,10 +2,10 @@
 
 
 <!-- Profile Views Counter -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Viraj012&style=flat-square&color=blue" alt="Profile Views Counter"/>
 </p>
-
+-->
 ## 👨‍💻 About Me
 
 <div>
