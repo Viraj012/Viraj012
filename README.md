@@ -1,9 +1,5 @@
 # Hello, I'm Vishal 👋
 
-<!-- Snake Animation - Simple Alternative -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
 
 <!-- Profile Views Counter -->
 <p align="left">
